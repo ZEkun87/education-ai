@@ -1,7 +1,7 @@
 # education-ai
 
 
-# 一、最终 GitHub 项目结构
+# 一、项目结构
 
 ```text
 ai-rag-knowledge-base/

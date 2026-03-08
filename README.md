@@ -23,8 +23,6 @@ ai-rag-knowledge-base/
 └── README.md
 ```
 
-> ⚡ 这就是企业级标准结构，面试官看到就会认可你项目可落地。
-
 ---
 
 # 二、requirements.txt
